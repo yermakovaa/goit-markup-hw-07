@@ -304,12 +304,6 @@ img {
 }
 
 /* Чем мы занимаемся */
-.service {
-    /* max-width: 1600px;
-    margin-left: auto;
-    margin-right: auto; */
-}
-
 .main-activity {
     display: flex;
     margin-top: 50px;
