@@ -1,4 +1,4 @@
-/* Палитра цветов */
+/* Палитра цветов
 :root {
     --primary-text-color: #212121;
     --secondary-text-color: #757575;
@@ -8,10 +8,10 @@
     --bg-color: #F5F4FA;
     --color-svg: #AFB1B8;
     --timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-}
+} */
 
 /* Оформление фона и основного текста */
-body {
+/* body {
     background-color: var(--primary-white-color);
     color: var(--primary-text-color);
 
@@ -19,23 +19,23 @@ body {
     letter-spacing: 0.03em;
     font-size: 14px;
     line-height: 1.14;
-}
+} */
 
 /* Обнуление стилей для списков */
-.list {
+/* .list {
     padding: 0;
     margin: 0;
 
     list-style: none;
-}
+} */
 
 /* block для картинок */
-img {
+/* img {
     display: block;
-}
+} */
 
 /* Скрытие элементов */
-.visually-hidden {
+/* .visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -44,19 +44,19 @@ img {
   padding: 0;
   clip: rect(0 0 0 0);
   overflow: hidden;
-}
+} */
 
 /* Контейнер для центрирования контента */
-.container {
+/* .container {
     width: 1200px;
     margin-left: auto;
     margin-right: auto;
     padding-left: 15px;
     padding-right: 15px;
-}
+} */
 
 /* Оформление логотипа в шапке */
-.logo {
+/* .logo {
     color: var(--secondary-black-color);
     font-family: Raleway, sans-serif;
     font-weight: 700;
@@ -67,10 +67,10 @@ img {
 
 .logo-web {
     color: var(--accent-color)
-}
+} */
 
 /* Оформление навигации */
-.block-header {
+/* .block-header {
     display: flex;
     align-items: center;
 }
@@ -133,10 +133,10 @@ img {
 
 .page-header.line {
     border-bottom: 1px solid #ECECEC;
-}
+} */
 
 /* Оформление контактов в шапке */
-.contacts-link {
+/* .contacts-link {
     display: flex;
     align-items: center;
 }
@@ -175,7 +175,7 @@ img {
 .contacts-link-item:hover,
 .contacts-link-item:focus {
     color: var(--accent-color);
-}
+} */
 
 /* Оформление героя */
 .hero {
