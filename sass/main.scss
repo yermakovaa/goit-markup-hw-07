@@ -7,6 +7,9 @@
 // Плейсхолдеры
 @import "./utils/placeholders";
 
+// Оформление логотипа
+@import "./components/logo";
+
 // Оформление шапки страницы
 @import "./components/page-header";
 
@@ -23,7 +26,7 @@
 @import "./components/team";
 
 // Оформление секции Постоянные клиенты
-@import "./components/clients";
+@import "./components/customers";
 
 // Оформление футера
 @import "./components/page-footer";
