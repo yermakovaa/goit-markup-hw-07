@@ -1,17 +1,3 @@
-// Оформление логотипа в шапке
-.logo {   
-    color: var(--secondary-black-color);
-    font-family: Raleway, sans-serif;
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 1.19;
-    text-decoration: none;
-
-    .logo-web {
-    color: $accent-color;
-    }
-}
-
 // Оформление навигации
 .block-header {
     @extend %centeredFlex;
